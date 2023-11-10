@@ -1,5 +1,5 @@
 <h3 align="center">🚧 Em construção 🚧</h3>
-<p><img align="center" src= "https://i.ibb.co/rskykxr/Projeto-recomendador-de-musica.png" alt="logo"></p>
+<p><img width=100%  src= "https://i.ibb.co/rskykxr/Projeto-recomendador-de-musica.png" alt="logo"></p>
 
 <p align="center">
     <!-- Python -->
